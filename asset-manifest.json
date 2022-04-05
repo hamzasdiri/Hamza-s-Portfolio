@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hamza-s-Protfolio/static/css/main.6ac1f9da.css",
+    "main.js": "/Hamza-s-Protfolio/static/js/main.b9d0b2da.js",
+    "static/js/787.128fc6e9.chunk.js": "/Hamza-s-Protfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/ME.png": "/Hamza-s-Protfolio/static/media/ME.19262a7db82a530d2bf6.png",
+    "static/media/baskety.png": "/Hamza-s-Protfolio/static/media/baskety.ab0a303e81195c1cd438.png",
+    "static/media/ME3.jpg": "/Hamza-s-Protfolio/static/media/ME3.4e4c838ffce90404d2d8.jpg",
+    "static/media/philia2.png": "/Hamza-s-Protfolio/static/media/philia2.dac2c59b10102452b7e5.png",
+    "static/media/cv-hamza.pdf": "/Hamza-s-Protfolio/static/media/cv-hamza.dbc02d88f205e2dc3f54.pdf",
+    "static/media/certificat1.png": "/Hamza-s-Protfolio/static/media/certificat1.4e9468c1934fa55ad411.png",
+    "static/media/crud.png": "/Hamza-s-Protfolio/static/media/crud.57eb088c1916a7c4a31b.png",
+    "index.html": "/Hamza-s-Protfolio/index.html",
+    "main.6ac1f9da.css.map": "/Hamza-s-Protfolio/static/css/main.6ac1f9da.css.map",
+    "main.b9d0b2da.js.map": "/Hamza-s-Protfolio/static/js/main.b9d0b2da.js.map",
+    "787.128fc6e9.chunk.js.map": "/Hamza-s-Protfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac1f9da.css",
+    "static/js/main.b9d0b2da.js"
+  ]
+}
